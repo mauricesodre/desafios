@@ -9,8 +9,7 @@ html, body {
     min-height: 100vh;
     background-color: darkgray;
 }
-
-header {    
+header {
     background-color: black;
     color: white;
     text-align: center;
@@ -18,5 +17,4 @@ header {
 
 header > h1 {
     padding-top: 50px;
-    text-transform: uppercase;
 }
